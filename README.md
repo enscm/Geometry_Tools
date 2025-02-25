@@ -1,2 +1,3 @@
 *  Gen_NP_adsorbing_gas.py : allows to generate different size and shape of nanoparticle of choise. allows to adsorb molecules like hydrogen to different sites (fcc, hcp, top, brg) of nanoparticle.
 *  Mean_Squared_Displacement.py : allows to plot one and/or multiple MSD profiles by analysing the MD trajectory files (here is the vasp generated XDATCAR, can be modified). usage : python Mean_Squared_Displacement.py [folder_containing_the_trajectory_file] [folder_containing_the_trajectory_file] ...
+*  Align_MD_trajectory.py : this script can eliminate the rotation of the trajectories which hinder the analysis of the true RMSD
